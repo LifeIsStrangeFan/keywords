@@ -6,3 +6,6 @@ K.H
 @opt Searches Tools Options…there is so much goodness hidden in there if you know where to look.
 @doc searches file names and paths but NOT file contents, you have other tools to search file contents (such as Find in Files/ CTRL+SHIFT+F)
 ninjhtll
+Ninjanon: Making Chloe and Max proud
+Ninjanon: Woah
+Ninjanon: Niiiiice
